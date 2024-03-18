@@ -2,7 +2,7 @@
 
 👀 I’m interested in Back-End
 
-🌱 I’m currently learning Kotlin and Phyton
+🌱 I’m currently learning MySQL/Phyton/JS/PHP
 
 📫 How to reach me
 
