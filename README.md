@@ -10,4 +10,4 @@ Email: cris.matrix02@gmail.com
 
 Whatsapp: (48) 99940-3775
 
-Linkedin: https://www.linkedin.com/in/lucas-veras-41194b230/
+Linkedin: https://www.linkedin.com/in/lucas-da-silva-veras
