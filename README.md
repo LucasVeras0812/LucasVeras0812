@@ -2,7 +2,7 @@
 
 👀 I’m interested in Back-End
 
-🌱 I’m currently learning MySQL/Phyton/JS/PHP
+🌱 I’m currently learning Python/Django/MySQL/PostgreSQL/AWS/Machine Learning
 
 📫 How to reach me
 
